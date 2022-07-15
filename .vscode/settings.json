@@ -1,0 +1,8 @@
+{
+    "docwriter.hotkey.mac": "⌥ + .",
+    "docwriter.language": "English",
+    "docwriter.progress.trackFunctions": false,
+    "docwriter.progress.trackMethods": false,
+    "docwriter.progress.trackClasses": false,
+    "docwriter.progress.trackTypes": false
+}
